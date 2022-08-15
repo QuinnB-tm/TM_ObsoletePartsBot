@@ -1,7 +1,7 @@
 # TM_ObsoletePartsBot
-Creates a spreadsheet of obsolete parts
+Creates a spreadsheet of obsolete parts.
 
-The source code is here (.ipynb) for both the obsolete parts bot and the SO_reader
+The source code is here (.ipynb) for both the obsolete parts bot and the SO_reader.
 
 
 The .exe is too big for github, but can be downloaded from:
