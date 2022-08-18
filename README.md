@@ -9,8 +9,7 @@ https://drive.google.com/file/d/1Y5CLqTkkPjzopwPMHFHf1o5bC1iRduzG/view?usp=shari
 
 
 The SO_reader's .exe is here:
-https://drive.google.com/file/d/1SotWVt0d8U-s5mQWWbk79uu8ABnUV4LK/view?usp=sharing
-
+https://drive.google.com/file/d/14aVdEmO8RkSILqbmCcu9CprZ24d1u0Hk/view?usp=sharing
 
 The user guide is here:
 https://docs.google.com/document/d/1oGh_vAuV_pNvfNQkDAHh0HuN-l6PZzo_WPtRGoh3y6E/edit?usp=sharing
