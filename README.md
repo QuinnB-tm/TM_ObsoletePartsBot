@@ -5,7 +5,7 @@ The source code is here (.ipynb) for both the obsolete parts bot and the SO_read
 
 
 The .exe is too big for github, but can be downloaded from:
-https://drive.google.com/file/d/1laAMUwckoOEaPuFqEvb5tNL-NLQjhmtK/view?usp=sharing
+https://drive.google.com/file/d/1Y5CLqTkkPjzopwPMHFHf1o5bC1iRduzG/view?usp=sharing
 
 
 The SO_reader's .exe is here:
